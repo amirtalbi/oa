@@ -1,0 +1,1 @@
+apps : id (auto-increment), name (varchar), description (long text), 
